@@ -1,5 +1,7 @@
 # Hours-of-Service Compliance Checker
 
+![Tools: SQL (SQLite)](https://img.shields.io/badge/Tools-SQL%20%28SQLite%29-1F3A5F?style=flat-square) ![Domain: Driver compliance](https://img.shields.io/badge/Domain-Driver%20compliance-4A5568?style=flat-square) ![Data: Synthetic](https://img.shields.io/badge/Data-Synthetic-lightgrey?style=flat-square) ![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
+
 **SQL checks that scan electronic logging device (ELD) duty-status logs for violations of Canada's commercial-driver hours-of-service rules, and show which drivers need coaching.**
 
 > **Sample data.** The 20 drivers and 3,637 log entries are **synthetic**. As a former AZ driver (long haul, cross-border and city, 2013–2017), I built this to show how a fleet's safety team could catch violations before an inspection does. It is not legal advice; always check the current regulations.
