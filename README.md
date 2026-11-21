@@ -4,7 +4,7 @@
 
 > ⚠️ **Sample data.** The 20 drivers and 3,637 log entries are **synthetic**. As a former AZ driver (long haul, cross-border and city, 2013–2017), I built this to show how a fleet's safety team could catch violations before an inspection does. It is not legal advice; always check the current regulations.
 
-**Tools:** SQL (SQLite, window functions) · Excel
+**Tools:** SQL (SQLite, window functions)
 
 ---
 
@@ -71,7 +71,7 @@ xychart-beta
 1. **Coach the four repeat drivers first.** They account for 70% of violations, so fixing their schedules has the biggest effect.
 2. **Plan cross-border trips around customs time.** Budget at least 2.5 hours of on-duty, non-driving time when dispatching, so the 14-hour limit isn't hit on the return leg.
 3. **Make dispatch watch the 7-day cycle.** Run the daily totals view every morning and stop assigning loads to any driver within 10 hours of the 70-hour limit.
-4. **Enforce rest days.** DRV15 had only 2 days off in 28; a rule of at least 1 day off in every 7 would remove most cycle violations.
+4. **Enforce rest days.** DRV15 had only 2 days off in 28; a rule of at least 1 day off in every 7 should cut cycle violations sharply.
 
 ---
 
